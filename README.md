@@ -2,7 +2,7 @@
 
 1. Dand le tp de test foncionnel, vous allez voir les test d'automatisation de scénario de test pour la création de l'utilisateur et l'admission
 
-2. Dans le tableau de test, vous trouverez les éléments suivants :
+2. Dans le tableau de test, vous trouverez les éléments suivants 
 
 * Conception des tests : Détails sur la manière dont les tests sont structurés et planifiés.
 * Objectif des tests : But de chaque test et ce que l'on cherche à valider.
