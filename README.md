@@ -1,6 +1,6 @@
 **selon la spécification de  ce tp, j'ai réalisé la conception de test, stratégie de test, scénario de test et de cas de test et à la fin j'ai mis en place l'automatisation de test avec selenium:**
 
-1. Dand le tp de test foncionnel, vous allez voir les test d'automatisation de scénario de test pour la création de l'utilisateur et l'admission**
+1. Dand le tp de test foncionnel, vous allez voir les test d'automatisation de scénario de test pour la création de l'utilisateur et l'admission
 
 2. Dans le tableau de test, vous trouverez les éléments suivants :
 
