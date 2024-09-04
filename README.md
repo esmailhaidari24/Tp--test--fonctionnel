@@ -24,7 +24,8 @@ L'utilisateur une fois déconnecté du système ou si la session utilisateur a e
 
 ![](https://github.com/esmailhaidari24/Tp--test--fonctionnel/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-13%20a%CC%80%2018.46.27.png)
 
-* ici vous pouvez voir les sécanrio de test et des cas de test rédigé pour la chaqe-ue fonctionnalité
+* Ici, vous pouvez voir les scénarios de test et les cas de test rédigés pour chaque fonctionnalité.
+  
   
 [ F. CNC-T01  ](https://docs.google.com/spreadsheets/d/1NHMhXPUjIS9If8h3lKxVs00my0X7lEJ5RW9zi5k4qao/pubhtml?gid=925019281&single=true)
 
@@ -36,4 +37,17 @@ L'utilisateur une fois déconnecté du système ou si la session utilisateur a e
 
 
 [F-CNC-T05](https://docs.google.com/spreadsheets/d/1NHMhXPUjIS9If8h3lKxVs00my0X7lEJ5RW9zi5k4qao/pubhtml?gid=2141835912&single=true)
+
+* réalisation de cas de test pour la Plateforme Admissions
+
+[F- CNX-T01](https://docs.google.com/spreadsheets/d/1NHMhXPUjIS9If8h3lKxVs00my0X7lEJ5RW9zi5k4qao/pubhtml?gid=1562849975&single=true)
+
+[F- CNX-T02](https://docs.google.com/spreadsheets/d/1NHMhXPUjIS9If8h3lKxVs00my0X7lEJ5RW9zi5k4qao/pubhtml?gid=34170842&single=true)
+
+[F- CNX-T03](https://docs.google.com/spreadsheets/d/1NHMhXPUjIS9If8h3lKxVs00my0X7lEJ5RW9zi5k4qao/pubhtml?gid=851005647&single=true)
+
+[F- CNX-T04](https://docs.google.com/spreadsheets/d/1NHMhXPUjIS9If8h3lKxVs00my0X7lEJ5RW9zi5k4qao/pubhtml?gid=1143926707&single=true)
+
+
+
 
