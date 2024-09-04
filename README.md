@@ -13,5 +13,7 @@ L'utilisateur une fois déconnecté du système ou si la session utilisateur a e
 
 ![](https://github.com/esmailhaidari24/Tp--test--fonctionnel/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-13%20a%CC%80%2018.46.27.png)
 
-
-[ F- C. P -T01 ](https://docs.google.com/spreadsheets/d/1ZmVwQMZB1f_Hl2sjOhyZ3RsyzLxxKiAgmSj5GpqsXCA/pubhtml?gid=0&single=true)
+* ici vous pouvez voir les sécanrio de test et des cas de test rédigé pour la chaqe-ue fonctionnalité
+  
+[ F. CNC-T01  ](https://docs.google.com/spreadsheets/d/1NHMhXPUjIS9If8h3lKxVs00my0X7lEJ5RW9zi5k4qao/pubhtml?gid=925019281&single=true)
+[F CNC -T02](https://docs.google.com/spreadsheets/d/1NHMhXPUjIS9If8h3lKxVs00my0X7lEJ5RW9zi5k4qao/pubhtml?gid=1125539363&single=true)
