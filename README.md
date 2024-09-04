@@ -4,6 +4,9 @@
 
 2. Dans le tableau de test, vous trouverez les éléments suivants. 
 
+
+
+
 * Conception des tests : Détails sur la manière dont les tests sont structurés et planifiés.
 * Objectif des tests : But de chaque test et ce que l'on cherche à valider.
 * Règles de nommage : Conventions utilisées pour nommer les tests, les fonctions, et les autres éléments.
