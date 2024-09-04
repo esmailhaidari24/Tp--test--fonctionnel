@@ -8,6 +8,7 @@
 * Scénarios de test : Description des différentes situations ou cas d'utilisation à tester.
 * Cas de test : Détails spécifiques sur les tests individuels à exécuter.
 
+** Dand le tp de test foncionnel, vous allez voir les test d'automatisation de scénario de test pour la création de l'utilisateur et l'admission **
   
 
 ![](https://github.com/esmailhaidari24/Tp--test--fonctionnel/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-13%20a%CC%80%2018.46.27.png)
