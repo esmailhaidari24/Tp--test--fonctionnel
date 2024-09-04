@@ -1,6 +1,8 @@
 **selon la spécification de  ce tp, j'ai réalisé la conception de test, stratégie de test, scénario de test et de cas de test et à la fin j'ai mis en place l'automatisation de test avec selenium:**
 
-**Dans le tableau de test, vous trouverez les éléments suivants :**
+- Dand le tp de test foncionnel, vous allez voir les test d'automatisation de scénario de test pour la création de l'utilisateur et l'admission**
+
++ Dans le tableau de test, vous trouverez les éléments suivants :**
 
 * Conception des tests : Détails sur la manière dont les tests sont structurés et planifiés.
 * Objectif des tests : But de chaque test et ce que l'on cherche à valider.
@@ -9,7 +11,7 @@
 * Cas de test : Détails spécifiques sur les tests individuels à exécuter.
   
 
-**Dand le tp de test foncionnel, vous allez voir les test d'automatisation de scénario de test pour la création de l'utilisateur et l'admission**
+
   
 
 ![](https://github.com/esmailhaidari24/Tp--test--fonctionnel/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-13%20a%CC%80%2018.46.27.png)
