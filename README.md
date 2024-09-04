@@ -11,6 +11,17 @@ Le site Web le site Web doit s'afficher correctement dans différents navigateur
 Les messages d’erreur ne doivent pas afficher des informations importantes.
 L'utilisateur une fois déconnecté du système ou si la session utilisateur a expiré, l'utilisateur ne devrait pas pouvoir naviguer sur le site.
 
+
+**Dans le tableau de test, vous trouverez les éléments suivants :**
+
+* Conception des tests : Détails sur la manière dont les tests sont structurés et planifiés.
+* Objectif des tests : But de chaque test et ce que l'on cherche à valider.
+* Règles de nommage : Conventions utilisées pour nommer les tests, les fonctions, et les autres éléments.
+* Scénarios de test : Description des différentes situations ou cas d'utilisation à tester.
+* Cas de test : Détails spécifiques sur les tests individuels à exécuter.
+
+  
+
 ![](https://github.com/esmailhaidari24/Tp--test--fonctionnel/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-13%20a%CC%80%2018.46.27.png)
 
 * ici vous pouvez voir les sécanrio de test et des cas de test rédigé pour la chaqe-ue fonctionnalité
