@@ -12,7 +12,5 @@ Les messages d’erreur ne doivent pas afficher des informations importantes.
 L'utilisateur une fois déconnecté du système ou si la session utilisateur a expiré, l'utilisateur ne devrait pas pouvoir naviguer sur le site.
 
 
-file:///Users/haidari/Desktop/Capture%20d%E2%80%99e%CC%81cran%201403-06-13%20a%CC%80%2018.46.27.png
-
 
 
