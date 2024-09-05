@@ -2,7 +2,7 @@
 
 ## A **Dans le TP de test fonctionnel, vous trouverez l'automatisation des scénarios de test pour la création d'utilisateurs et l'admission.**
 
-2. **Dans le tableau de test, vous trouverez les éléments suivants.**
+## A Dans le tableau de test, vous trouverez les éléments suivants.
 
 
 
