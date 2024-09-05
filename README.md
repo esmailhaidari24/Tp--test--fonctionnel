@@ -44,6 +44,6 @@
 [F- CNX-T04](https://docs.google.com/spreadsheets/d/1NHMhXPUjIS9If8h3lKxVs00my0X7lEJ5RW9zi5k4qao/pubhtml?gid=1143926707&single=true)
 
 
-![ script en pytest ](file:///Users/haidari/Desktop/Capture%20d%E2%80%99e%CC%81cran%201403-06-15%20a%CC%80%2023.34.27.png)
+![script en pytest](file:///Users/haidari/Desktop/Capture%20d%E2%80%99e%CC%81cran%201403-06-15%20a%CC%80%2023.34.27.png)
 
 
