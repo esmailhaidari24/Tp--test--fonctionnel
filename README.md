@@ -43,6 +43,11 @@
 
 [F- CNX-T04](https://docs.google.com/spreadsheets/d/1NHMhXPUjIS9If8h3lKxVs00my0X7lEJ5RW9zi5k4qao/pubhtml?gid=1143926707&single=true)
 
+![script de cas de test d'admission](https://github.com/esmailhaidari24/Tp--test--fonctionnel/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-15%20a%CC%80%2023.50.47.png)
+
+
+
+
 ![automatisations avec pytest](https://github.com/esmailhaidari24/Tp--test--fonctionnel/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-15%20a%CC%80%2023.44.55.png)
 
 
