@@ -46,7 +46,9 @@
 
 * Réalisation de cas de test pour la fonctionnalité de mot de passe oublié:
 
-  [F- RCU-T01](<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTgc47y3xLUCOgK3cqcdj_bCtIBfKX-pHIjcGZUdw_MYapAjTdntlLQIZhvdim7_HCBJ4vZ1qdcLVHG/pubhtml?gid=1415206441&amp;single=true&amp;widget=true&amp;headers=false"></iframe>)
+  [F- RCU-T01](https://docs.google.com/spreadsheets/d/e/2PACX-1vTgc47y3xLUCOgK3cqcdj_bCtIBfKX-pHIjcGZUdw_MYapAjTdntlLQIZhvdim7_HCBJ4vZ1qdcLVHG/pubhtml?gid=1415206441&single=true)
+
+  [F-RCU-T02](https://docs.google.com/spreadsheets/d/e/2PACX-1vTgc47y3xLUCOgK3cqcdj_bCtIBfKX-pHIjcGZUdw_MYapAjTdntlLQIZhvdim7_HCBJ4vZ1qdcLVHG/pubhtml?gid=422797044&single=true)
 
 ![script de cas de test d'admission](https://github.com/esmailhaidari24/Tp--test--fonctionnel/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-15%20a%CC%80%2023.50.47.png)
 
