@@ -1,4 +1,4 @@
-**Conformément aux spécifications de ce TP, j'ai élaboré la conception des tests,  la stratégie de test,  les scénarios , les cas de test, et enfin, mis en place l'automatisation des tests avec Selenium dans le fichier de tp- test Fonctionnel.**
+# Conformément aux spécifications de ce TP, j'ai élaboré la conception des tests,  la stratégie de test,  les scénarios , les cas de test, et enfin, mis en place l'automatisation des tests avec Selenium dans le fichier de tp- test Fonctionnel.
 
 ##  **Dans le TP de test fonctionnel, vous trouverez l'automatisation des scénarios de test pour la création d'utilisateurs et l'admission.**
 
