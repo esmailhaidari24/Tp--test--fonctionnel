@@ -1,5 +1,4 @@
-
-# - Dans le cadre de tp de  test fonctionnel, nous avons fait des case de tets et des scénario de test pour vérifier et pour créer les étapes pour chaque fonctionalité, donc, j'ai essayé de rédiger des cas de test test pour certains de ces fonctionalité tout en respectant les regles de nommage.
+**Dans le cadre de tp de  test fonctionnel, nous avons fait des case de tets et des scénario de test pour vérifier et pour créer les étapes pour chaque fonctionalité, donc, j'ai essayé de rédiger des cas de test test pour certains de ces fonctionalité tout en respectant les regles de nommage.
 
 * Scénarios de test : Description des différentes situations ou cas d'utilisation à tester.
 * Cas de test : Détails spécifiques sur les tests individuels à exécuter.
