@@ -1,16 +1,6 @@
-## "Conformément aux spécifications de ce TP, j'ai conçu la stratégie de test, élaboré les scénarios de test et cas de test, puis mis en place l'automatisation avec Selenium dans le 
-    ##cadre des tests fonctionnels.".
 
-#  - Dans le TP de test fonctionnel, vous trouverez l'automatisation des scénarios de test pour la création d'utilisateurs et l'admission.
+# - Dans le cadre de tp de  test fonctionnel, nous avons fait des case de tets et des scénario de test pour vérifier et pour créer les étapes pour chaque fonctionalité, donc, j'ai essayé de rédiger des cas de test test pour certains de ces fonctionalité tout en respectant les regles de nommage.
 
-# - Dans le tableau de test, vous trouverez les éléments suivants: 
-
-
-
-
-* Conception des tests : Détails sur la manière dont les tests sont structurés et planifiés.
-* Objectif des tests : But de chaque test et ce que l'on cherche à valider.
-* Règles de nommage : Conventions utilisées pour nommer les tests, les fonctions, et les autres éléments.
 * Scénarios de test : Description des différentes situations ou cas d'utilisation à tester.
 * Cas de test : Détails spécifiques sur les tests individuels à exécuter.
   
