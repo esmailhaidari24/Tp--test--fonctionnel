@@ -52,6 +52,6 @@ Dans le cadre de tp de  test fonctionnel, nous avons fait des case de tets et de
 ![](https://github.com/esmailhaidari24/Tp-conception-de-test-fonctionnel/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-15%20a%CC%80%2023.50.47.png)
 
 
-
+![](https://github.com/esmailhaidari24/Tp-conception-de-test-fonctionnel/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-28%20a%CC%80%2007.55.28.png)
 
 
