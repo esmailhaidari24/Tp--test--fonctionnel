@@ -1,8 +1,9 @@
-## "Conformément aux spécifications de ce TP, j'ai conçu la stratégie de test, élaboré les scénarios de test et cas de test, puis mis en place l'automatisation avec Selenium dans le cadre des tests fonctionnels.".
+## "Conformément aux spécifications de ce TP, j'ai conçu la stratégie de test, élaboré les scénarios de test et cas de test, puis mis en place l'automatisation avec Selenium dans le 
+    ##cadre des tests fonctionnels.".
 
-###  - Dans le TP de test fonctionnel, vous trouverez l'automatisation des scénarios de test pour la création d'utilisateurs et l'admission.
+#  - Dans le TP de test fonctionnel, vous trouverez l'automatisation des scénarios de test pour la création d'utilisateurs et l'admission.
 
-### - Dans le tableau de test, vous trouverez les éléments suivants: 
+# - Dans le tableau de test, vous trouverez les éléments suivants: 
 
 
 
